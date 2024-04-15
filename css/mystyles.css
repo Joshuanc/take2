@@ -1,0 +1,36 @@
+body{
+    font-family: 'barber';
+}
+.site-heading-lower{
+    font-family: monospace;
+}
+.mb-3{font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color:rgb(243, 201, 112) !important
+}
+.section-heading-lower{font-family: monospace;}
+.notyellow{
+    color:black !important;
+}
+.intro-text{ 
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, .5);
+}
+.footer{
+    color: beige;
+}
+.navbar{
+    background-color: black;
+}
+.section-heading .section-heading-lower {
+    display: block;
+    font-size: 2rem;
+    font-weight: 1
+}
+.body {
+    background-image: linear-gradient(rgba(238, 12, 95, 0.65), rgba(226, 50, 6, 0.65)), url(../assets/img/bg.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-faded {
+    background-color: #f9c971 !important
+}
