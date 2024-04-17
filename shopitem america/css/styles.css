@@ -544,6 +544,7 @@ progress {
 @media (min-width: 1200px) {
   .display-5 {
     font-size: 3rem;
+    color:white;
   }
 }
 
